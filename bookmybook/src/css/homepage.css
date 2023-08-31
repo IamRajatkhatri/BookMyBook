@@ -1,0 +1,13 @@
+.card {
+    width: 18rem;
+    position: absolute;
+    margin-top: 1.5%;
+    margin-left: 1%;
+    
+    /* Add the background image property */
+    background-image: url('../component/images/bg-signup.jpg');
+    /* Adjust the background size and positioning if needed */
+    background-size: cover;
+    background-position: center;
+}
+
